@@ -25,7 +25,8 @@ and https://drive.google.com/drive/folders/1DcxNs007afh-uryic9ngcOLGy2ST-xUK
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/7602bc2a-238c-49a9-9c1e-bb2ba40341d2)
 
 # Some Results
-![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/69768ec9-1fb1-45aa-a72b-a73a62c8c44c)
+![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/538783ed-bb05-4aad-bf17-4d354a8a124f)
+
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/94b19339-10f3-4428-bd83-6c4ebce7b6b5)
 
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/4bf84c7c-f903-40e0-aa2c-0b4b583a845f)
