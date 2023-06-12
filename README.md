@@ -30,4 +30,9 @@ and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkg_Yn5gJJ/view?usp=s
 
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/4bf84c7c-f903-40e0-aa2c-0b4b583a845f)
 
+# Key Files
+1. [KUhar_time_freq_spectrogram.m](https://github.com/Masrur02/AM_DLFC/blob/main/KUhar_time_freq_spectrogram.m)-Assuming you have downloaded the raw data, this code can be used to generate the spectograms for KU-HAR, UCI-HAR, WISDM datasets.
+2. [AM_DLFC.ipynb](https://github.com/Masrur02/AM_DLFC/blob/main/AM_DLFC.ipynb)- Assuming you have downloaded the processed data, this is the proposed AM_DLFC model to train using that data.
+3. [LLDNet.h5](https://github.com/Masrur02/LLDNet/blob/main/LLDNet.h5)-These are the final outputs from the above CNN. Note that if you train the file above the originals here will be overwritten! These get fed into the below.
+
 
