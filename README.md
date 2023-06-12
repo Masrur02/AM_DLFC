@@ -1,6 +1,6 @@
 # Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination
 
-This is the source code of Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination. We provide the datasets, processed datasets data preprocess code, model development code, and the pretrained  model.
+This is the source code of Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination. We provide the datasets, processed datasets, data preprocess code, model development code, and the pretrained  model.
 
 # Dataset
 ## Description 
