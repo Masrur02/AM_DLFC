@@ -7,7 +7,7 @@ This is the source code of Human Activity Recognition Using Attention Mechanism 
 In this work, we have used three public benchmark datasets including KU-HAR dataset, UCI-HAR Dataset, WISDM dataset. These datasets can be found at https://data.mendeley.com/datasets/45f952y38r/5, https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones, https://www.cis.fordham.edu/wisdm/dataset.php
 
 ## Data Preparation
-In many instances, 2D CNNS outperform 1D CNNs with same number of parameters. For taking the advantages of 2D Convolution and 2D pooling layers, this work converted the 1D time-series signals into 2D image. To convert the signals into 2D images, this work utilized the technique of spectrogram. This work considered short time Fourier Transform (SIFT) for generating the spectrogram.
+In many instances, 2D CNNS outperform 1D CNNs with same number of parameters. For taking the advantages of 2D Convolution and 2D pooling layers, this work converted the 1D time-series signals into 2D image. To convert the signals into 2D images, this work utilized the technique of spectrogram. This work considered short time Fourier Transform (SIFT) for generating the spectrogram. After converting the spectrogram, the raw samples turned into a shape of 8×129×6, where the height, width and the channel of the samples are 8, 129, 6 respectively.
 
 ## Download
 The mixed dataset utilized in this work can be found https://drive.google.com/file/d/1S23Ac0_hbOktV0rE2q0IkQWpQjUfkMTB/view?usp=sharing 
