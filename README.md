@@ -1,6 +1,6 @@
 # Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination
 
-This is the source code of Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination. We provide the dataset, data preprocess code, model development code.
+This is the source code of Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination. We provide the datasets, processed datasets data preprocess code, model development code, and the pretrained  model.
 
 # Dataset
 ## Description 
@@ -10,8 +10,8 @@ In this work, we have used three public benchmark datasets including KU-HAR data
 In many instances, 2D CNNS outperform 1D CNNs with same number of parameters. For taking the advantages of 2D Convolution and 2D pooling layers, this work converted the 1D time-series signals into 2D image. To convert the signals into 2D images, this work utilized the technique of spectrogram. This work considered short time Fourier Transform (SIFT) for generating the spectrogram. After converting the spectrogram, the raw samples turned into a shape of 8×129×6, where the height, width and the channel of the samples are 8, 129, 6 respectively.
 
 ## Download
-The mixed dataset utilized in this work can be found https://drive.google.com/file/d/1S23Ac0_hbOktV0rE2q0IkQWpQjUfkMTB/view?usp=sharing 
-and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkg_Yn5gJJ/view?usp=sharing
+The processed datasets and the labels can be found https://drive.google.com/drive/folders/1A3MU5Aw_9dIY1ISWAFB0MqQjsA3aaas0
+and https://drive.google.com/drive/folders/1DcxNs007afh-uryic9ngcOLGy2ST-xUK
 
 
 
