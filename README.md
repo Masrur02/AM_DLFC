@@ -22,7 +22,7 @@ and https://drive.google.com/file/d/1I264WVBL3Dyp_4PTfEYkVIDkg_Yn5gJJ/view?usp=s
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/ee0f685a-e040-48bf-b147-c3aada0f57f4)
 
 # AM_DLFC Model Architecture
-![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/314fa560-2a27-4a75-b002-028ffe2754da)
+![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/7602bc2a-238c-49a9-9c1e-bb2ba40341d2)
 
 # Some Results
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/69768ec9-1fb1-45aa-a72b-a73a62c8c44c)
