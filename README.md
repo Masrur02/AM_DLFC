@@ -47,7 +47,7 @@ Please cite our paper if you use this code or the processed dataset in your own 
   author={Akter, M.; Ansary, S.; Khan, M.A.-M.; Kim, D},
   journal={Sensors},
   volume={23},
-  year={2023},
+  year={2023}
 }
 
 
