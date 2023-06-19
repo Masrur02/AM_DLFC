@@ -30,6 +30,7 @@ and https://drive.google.com/drive/folders/1DcxNs007afh-uryic9ngcOLGy2ST-xUK
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/94b19339-10f3-4428-bd83-6c4ebce7b6b5)
 
 ![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/4bf84c7c-f903-40e0-aa2c-0b4b583a845f)
+![image](https://github.com/Masrur02/AM_DLFC/assets/33350185/b31ae2cc-0c78-4605-b549-65d30b872215)
 
 # Key Files
 1. [KUhar_time_freq_spectrogram.m](https://github.com/Masrur02/AM_DLFC/blob/main/KUhar_time_freq_spectrogram.m)-Assuming you have downloaded the raw data, this code can be used to generate the spectograms for KU-HAR, UCI-HAR, WISDM datasets.
