@@ -2,6 +2,8 @@
 
 This is the source code of Human Activity Recognition Using Attention Mechanism Based Deep Learning Feature Combination. We provide the datasets, processed datasets, data preprocess code, model development code, and the pretrained  model.
 
+Akter, M.; Ansary, S.; Khan, M.A.-M.; Kim, D. Human Activity Recognition Using Attention-Mechanism-Based Deep Learning Feature Combination. Sensors 2023, 23, 5715. https://doi.org/10.3390/s23125715
+
 # Dataset
 ## Description 
 In this work, we have used three public benchmark datasets including KU-HAR dataset, UCI-HAR Dataset, WISDM dataset. These datasets can be found at https://data.mendeley.com/datasets/45f952y38r/5, https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones, https://www.cis.fordham.edu/wisdm/dataset.php
@@ -36,4 +38,19 @@ and https://drive.google.com/drive/folders/1DcxNs007afh-uryic9ngcOLGy2ST-xUK
 1. [KUhar_time_freq_spectrogram.m](https://github.com/Masrur02/AM_DLFC/blob/main/KUhar_time_freq_spectrogram.m)-Assuming you have downloaded the raw data, this code can be used to generate the spectograms for KU-HAR, UCI-HAR, WISDM datasets.
 2. [AM_DLFC.ipynb](https://github.com/Masrur02/AM_DLFC/blob/main/AM_DLFC.ipynb)- Assuming you have downloaded the processed data, this is the proposed AM_DLFC model to train using that data.
 3. [Signal.h5](https://github.com/Masrur02/AM_DLFC/blob/main/Signal.h5)-These are the final outputs from the above CNN. Note that if you train the file above the originals here will be overwritten!
+
+
+# Citation
+Please cite our paper if you use this code or the mixed dataset in your own work:
+@article{sensors-23-05715,
+  title={Human Activity Recognition Using Attention-Mechanism-Based Deep Learning Feature Combination},
+  author={Akter, M.; Ansary, S.; Khan, M.A.-M.; Kim, D},
+  journal={Sensors},
+  volume={23},
+  year={2023},
+}
+
+
+
+
 
