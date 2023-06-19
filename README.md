@@ -41,7 +41,7 @@ and https://drive.google.com/drive/folders/1DcxNs007afh-uryic9ngcOLGy2ST-xUK
 
 
 # Citation
-Please cite our paper if you use this code or the mixed dataset in your own work:
+Please cite our paper if you use this code or the processed dataset in your own work:
 @article{sensors-23-05715,
   title={Human Activity Recognition Using Attention-Mechanism-Based Deep Learning Feature Combination},
   author={Akter, M.; Ansary, S.; Khan, M.A.-M.; Kim, D},
